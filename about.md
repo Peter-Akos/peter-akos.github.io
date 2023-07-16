@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### About
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi, my name is Ákos!
+
+I'm a computer science student from Transylvania.
+
+I just started this blog so what I can tell you about it is, that I plan to post here about my projects.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[peterakos19@gmail.com](mailto:peterakos19@gmail.com)
