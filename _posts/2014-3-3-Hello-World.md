@@ -1,9 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Első poszt
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Sziasztok kedves nézőim, Péter Ákos blogját olvassátok és ez itt az első poszt.
+
+Kérem a kedves utasokat, hogy kapcsolják be a biztonsági öveiket, és élvezzék az utazást.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
