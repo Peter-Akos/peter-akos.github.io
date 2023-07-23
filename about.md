@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
-## About
-
 #### Hi, my name is **Ákos**!
 
 I study **computer science** and in the last few years I did some **Data Science** and **Machine learning** projects. For the possibility that maybe others would find them interesting, I created this blog.
