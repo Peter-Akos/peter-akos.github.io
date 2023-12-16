@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: Peter-Akos
   instagram:
-  linkedin:
+  linkedin: ákos-péter-5247aa21b
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: #jekyllrb
@@ -41,7 +41,7 @@ google_analytics: G-662Z84DC4C
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://peter-akos.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
