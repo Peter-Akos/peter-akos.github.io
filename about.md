@@ -14,6 +14,6 @@ You can do a lot of cool stuff with data, but if you want to understand it, the 
 
 ## Resume
 
-You can find my CV [here](https://drive.google.com/file/d/127NwepIJXHroid5-w3DR-3HtWfee4OlV/view). 
+You can find my CV [here](https://drive.google.com/file/d/13eYzF1GK92WQcuYF7h4AIT3hgEshL7V2/view). 
 
 If you have some comments about the work I do or you want to work together, you can write me a message on LinkedIn or send me an email.
