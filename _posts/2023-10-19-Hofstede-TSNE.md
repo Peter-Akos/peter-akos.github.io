@@ -2,8 +2,12 @@
 layout: post
 title: Visualizing Culture with the Hofstede's cultural dimensions theory
 ---
+
+
 ### How can we measure culture?
 This was the question Geert Hofstede had in his mind when he started his research.  Embarking on a journey that would shape cross-cultural psychology, he crafted a framework comprising six dimensions. These dimensions act as lenses, allowing us to decipher the profound impact of culture on the values held by its members.
+
+![Plot picture](/images/2d_plot_no_title.png)  
 
 ### The 6 dimensions of culture:
 - Power distance index 
@@ -46,15 +50,15 @@ The primary challenge posed by this data lies in its multidimensionality. With s
 
 ### What is t-SNE?
 
-t-distributed stochastic neighbor embedding is a nonlinear dimensionality reduction technique that excels in revealing underlying patterns and structures within high-dimensional datasets. Unlike traditional techniques that may distort relationships, t-SNE aims to preserve the local and global similarities between data points, making it particularly suitable for visualizing cultural dimensions.
+[t-distributed stochastic neighbor embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding){:target="_blank"} is a nonlinear [dimensionality reduction technique](https://en.wikipedia.org/wiki/Dimensionality_reduction){:target="_blank"} that excels in revealing underlying patterns and structures within high-dimensional datasets. Unlike traditional techniques that may distort relationships, t-SNE aims to preserve the local and global similarities between data points, making it particularly suitable for visualizing cultural dimensions.
 
 ### How Does t-SNE Work?
 
 At its core, t-SNE minimizes the divergence between two probability distributions: one that measures pairwise similarities between data points in the high-dimensional space and another for the low-dimensional space. 
 
-The optimization objective is to find a low-dimensional representation that minimizes the Kullback-Leibler divergence between these two distributions.
+The optimization objective is to find a low-dimensional representation that minimizes the [Kullback-Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence){:target="_blank"} between these two distributions.
 
-The pairwise similarities are defined using a Student's t-distribution in the low-dimensional space, allowing t-SNE to focus on preserving the relative distances between points.
+The pairwise similarities are defined using a [Student's t-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution){:target="blank"} in the low-dimensional space, allowing t-SNE to focus on preserving the relative distances between points.
 
 ### Why t-SNE in Cultural Analysis?
 
@@ -68,7 +72,33 @@ Since we are plotting countries on a map, we should not entirely get rid of the 
 
 ## The final plot
 
-If you are on mobile, the plot might be too small, so you can check it out by clicking [here](https://peter-akos.github.io/Visualizations/Cultural_Differences/cultural_differences_2.html){:target="_blank"}.
+If you are on mobile, the plot might be too small, so you can check it out by clicking [here](https://peter-akos.github.io/Visualizations/Cultural_Differences/cultural_differences_2d.html){:target="_blank"}.
 
-<iframe src="https://peter-akos.github.io/Visualizations/Cultural_Differences/cultural_differences_2.html" width="100%" height="500px"></iframe>
+<iframe src="https://peter-akos.github.io/Visualizations/Cultural_Differences/cultural_differences_2.html" width="100%" height="566
+px"></iframe>
 
+
+## The clusters
+- English-speaking countries: Australia, Canada, Great Britain, Ireland, New Zealand, USA
+- Nordic counties: Denmark, Finland, Netherlands, Norway, Sweden
+- Baltic countries: Estonia, Latvia, Lithuania
+- Western and Central Europe: Austria, Belgium, Czech Republic, France, Germany, Hungary, Italy, Luxembourg, Switzerland
+- Balkan countries: Bulgaria, Croatia, Serbia, Romania. Russia is also part of this cluster indicating that culturally it is close despite being far geographically
+- The East: Bangladesh, China, Hong Kong, India, Indonesia, Malaysia, Pakistan, Philippines, Singapore, South Korea, Taiwan, Vietnam
+- Latin America: Argentina, Brazil, Chile, Colombia, El Salvador, Mexico, Trinidad and Tobago, Uruguay, Venezuela
+- Islamic countries: Africa East, Iran, Morocco
+
+
+## Interesting results
+- Japan surrounded by european countries
+- Turkey and Brazil being so close to each other
+- Slovak Republic with Asian neighbours
+
+## Wait, don't we have another unused dimension
+Sure, we could also plot them in 3d. If you want to see that, click [here](https://peter-akos.github.io/Visualizations/Cultural_Differences/cultural_differences_3.html){:target="_blank"}.
+
+<iframe src="https://peter-akos.github.io/Visualizations/Cultural_Differences/cultural_differences_3.html" width="100%" height="566
+px"></iframe>
+
+
+Thank you for getting to the end, I hope you liked it. If you have any questions or comments, feel free to write them to me.

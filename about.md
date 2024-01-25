@@ -12,7 +12,7 @@ I study **computer science** and in the last few years I did some **Data Science
 
 You can do a lot of cool stuff with data, but if you want to understand it, the best way is to vizualize it. 
 
-## Resume
+## CV
 
 You can find my CV [here](https://drive.google.com/file/d/13eYzF1GK92WQcuYF7h4AIT3hgEshL7V2/view). 
 
