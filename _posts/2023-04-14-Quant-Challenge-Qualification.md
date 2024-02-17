@@ -5,7 +5,7 @@ title: Our Team has Qualified for the Finals of the Morgan Stanley Quant Challen
 I'm happy to announce that our team, Compacto has qualified for the finals of the Morgan Stanley Quant Challenge. Being part of the 8 best teams out of more than a hundred makes me so proud of the amazing people that I worked with in the last few weeks and I want to share what we've been working on.
 
 ## Let's start by introducing the team
-1. **Ács Hunor**: Data Visualization expert, he made the plots that you can see in the paper.
+1. **Ács Hunor**: Responsible for the data visualizations.
 
 2. **Magyari-Sáska Attila**: Responsible for the model for soybeans.
 
