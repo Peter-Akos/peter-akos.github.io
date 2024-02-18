@@ -25,9 +25,10 @@ You can find my CV [here](https://drive.google.com/file/d/13eYzF1GK92WQcuYF7h4AI
 
 If you have some comments about the work I do or you want to work together, you can write me a message on LinkedIn or send me an email.
 
-## Content I really like
+## Writings I really like
 - [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)){:target="blank"} and [The Plague](https://en.wikipedia.org/wiki/The_Plague_(novel)){:target="blank"} by [Camus](https://en.wikipedia.org/wiki/Albert_Camus){:target="blank"}
 - [Essays](https://www.paulgraham.com/articles.html){:target="blank"} by [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)){:target="blank"}
-- Russian literature: every book of [Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky){:target="blank"}, [What is to be done](https://en.wikipedia.org/wiki/What_Is_to_Be_Done%3F_(novel)){:target="blank"} by [Chernyshevsky](https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky){:target="blank"}
+- [Meditations](https://en.wikipedia.org/wiki/Meditations){:target="blank"} by [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius){:target="blank"}
+- Russian literature: every book of [Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky){:target="blank"}, [What is to be done](https://en.wikipedia.org/wiki/What_Is_to_Be_Done%3F_(novel)){:target="blank"} by [Chernyshevsky](https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky){:target="blank"}, [The Gulag Archipelago](https://en.wikipedia.org/wiki/The_Gulag_Archipelago){:target="blank"} by [Aleksandr Solzhenitsyn](https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn){:target="blank"}
 - [The Gay Science](https://en.wikipedia.org/wiki/The_Gay_Science){:target="blank"} and [Thus Spoke Zarathustra](https://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra){:target="blank"} by [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche){:target="blank"}
 
