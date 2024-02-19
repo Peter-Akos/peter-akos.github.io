@@ -7,7 +7,7 @@ title: Visualizing Culture with the Hofstede's cultural dimensions theory
 ### How can we measure culture?
 This was the question Geert Hofstede had in his mind when he started his research.  Embarking on a journey that would shape cross-cultural psychology, he crafted a framework comprising six dimensions. These dimensions act as lenses, allowing us to decipher the profound impact of culture on the values held by its members.
 
-![Plot picture](/images/2d_plot_no_title.png)  
+![Plot picture](/images/cultures-plot.png)  
 
 ### The 6 dimensions of culture:
 - Power distance index 
