@@ -23,8 +23,6 @@ I think one of the most important things in life is self-reflection and learning
 
 You can find my CV [here](https://drive.google.com/file/d/13eYzF1GK92WQcuYF7h4AIT3hgEshL7V2/view). 
 
-If you have some comments about the work I do or you want to work together, you can write me a message on LinkedIn or send me an email.
-
 ## Writings I really like
 - [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)){:target="blank"} and [The Plague](https://en.wikipedia.org/wiki/The_Plague_(novel)){:target="blank"} by [Camus](https://en.wikipedia.org/wiki/Albert_Camus){:target="blank"}
 - [Essays](https://www.paulgraham.com/articles.html){:target="blank"} by [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)){:target="blank"}
